@@ -1,0 +1,18 @@
+{
+  "name": "satish",
+  "version": "1.0.0",
+  "description": "sample app",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "author": "sathish",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "missing": "0.0.1"
+  }
+}
