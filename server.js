@@ -12,6 +12,8 @@ app.get("/sample1",(req,res)=>{
 });
 app.listen(port);
 
+//shade Satish code;
+
 
 //create a server object:
 /* http.createServer(function (req, res) {
